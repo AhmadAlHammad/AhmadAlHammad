@@ -1,15 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ahmad👋
+## 🚀 About Me
 
-**AhmadAlHammad/AhmadAlHammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+I'm a full-stack developer I Love Coding:
+💙 
+<a href="https://reactjs.org/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
+</a>
+<a href="https://getbootstrap.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" />
+</a>
+<a href="https://www.w3.org/html/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
+</a>
+<a href="https://nodejs.org" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
+</a>
+<a href="https://expressjs.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
+</a>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadAlHammad&theme=github_dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="AhmadAlHammad stats card" /></p>
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadAlHammad&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="AhmadAlHammad stats card" /></p>
