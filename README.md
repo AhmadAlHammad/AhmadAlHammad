@@ -1,6 +1,7 @@
-# Hi, I'm Ahmad 👋  
+# Hi, I'm Ahmad👋
+
 ## 🚀 About Me  
-I'm a full-stack developer with a passion for coding! 💙  
+I'm a full-stack developer I Love Coding💙 
 
 ### Frontend Development  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
