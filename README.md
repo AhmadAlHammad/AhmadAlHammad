@@ -18,4 +18,7 @@ I'm a full-stack developer with a passion for coding! 💙
 ### Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-alhammmad/)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadAlHammad&theme=github_dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AhmadAlHammad&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="GitHub Stats" /> </p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadAlHammad&theme=github_dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="AhmadAlHammad stats card" /></p>
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadAlHammad&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="AhmadAlHammad stats card" /></p>
