@@ -11,12 +11,10 @@ I'm a full-stack developer with a passion for coding! 💙
 ### Backend Development  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square)
+
 
 ### Database  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
 
 ### Connect with me  
