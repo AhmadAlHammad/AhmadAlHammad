@@ -6,8 +6,7 @@ I'm a full-stack developer. I love coding! 💙
 
 ### Frontend  
 <a href="https://reactjs.org/" target="blank">
-  <a href=""https://reactjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/7bec9379f85ca670bfbd9459c3698fcb38fb132366adb992446da42c2633c2e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" width="50" style="margin-right: 10px;" />
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" width="50" style="margin-right: 10px;" />
 </a>
 <a href="https://getbootstrap.com" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="50" width="50" style="margin-right: 10px;" />
