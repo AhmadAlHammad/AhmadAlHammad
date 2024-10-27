@@ -1,49 +1,23 @@
-# Hi, I'm Ahmad👋  
+# Hi, I'm Ahmad 👋  
 ## 🚀 About Me  
+I'm a full-stack developer with a passion for coding! 💙  
 
-I'm a full-stack developer. I love coding! 💙  
-<br>
+### Frontend Development  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square)
 
-### Frontend  
-<div style="display: flex; gap: 10px;">
-  <a href="https://reactjs.org/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" width="50" style="border-radius: 5px;" />
-  </a>
-  <a href="https://getbootstrap.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="50" width="50" style="border-radius: 5px;" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="50" width="50" style="border-radius: 5px;" />
-  </a>
-  <a href="https://www.w3.org/html/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="50" width="50" style="border-radius: 5px;" />
-  </a>
-</div>
+### Backend Development  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square)
 
-<br>
+### Database  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
 
-### Backend  
-<div style="display: flex; gap: 10px;">
-  <a href="https://nodejs.org" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="50" width="50" style="border-radius: 5px;" />
-  </a>
-  <a href="https://expressjs.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="50" width="50" style="border-radius: 5px;" />
-  </a>
-</div>
-
-<br>
-
-### Connect with me
-<a href="https://www.linkedin.com/in/your-linkedin-username" target="blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
-</a>
-
-<br>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmadAlHammad&theme=github_dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="AhmadAlHammad stats card" />
-</p>
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadAlHammad&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="AhmadAlHammad stats card" />
-</p>
+### Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
