@@ -14,7 +14,7 @@ I'm a full-stack developer. I love coding! 💙
 <a href="https://www.w3schools.com/css/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="50" width="50" style="margin-right: 10px;" />
 </a>
-<  a href="https://www.w3.org/html/" target="blank">
+<a href="https://www.w3.org/html/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="50" width="50" />
 </a>
 
