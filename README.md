@@ -15,6 +15,8 @@ I'm a full-stack developer I Love Coding💙
 
 ### Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-47A248?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-alhammmad/)
