@@ -15,7 +15,7 @@ I'm a full-stack developer I Love Coding💙
 
 ### Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![postgresql](https://img.shields.io/badge/postgresql-47A248?style=for-the-badge&logo=postgresql&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-47A248?style=for-the-badge&logo=postgresql&logoColor=blue)
 
 
 ### Connect with me  
